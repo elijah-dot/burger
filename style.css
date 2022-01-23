@@ -9,4 +9,5 @@ h1.description{font-weight: bold;
 }
 p.description{font-style: italic;}
 h1.class{font-weight: bolder;
-          background-color: red;                 }
+          background-color: red;}
+ p.three{font-style: italic;}         
