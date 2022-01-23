@@ -1,4 +1,12 @@
-.top-feature{background-color: orange;}
-.container{background-color: orange;}
-h1.description{font-family: fantasy;}
-.page5{background-color: orangered;}
+.cars{background-color: palegoldenrod;}
+.top-feature{text-align:right;
+              font-style: normal;
+              font-weight: bold;
+              font-size: larger;}
+.container{background-color: peru;}
+h1.description{font-weight: bold;
+               background-color: peru;
+}
+p.description{font-style: italic;}
+h1.class{font-weight: bolder;
+          background-color: red;                 }
