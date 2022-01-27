@@ -6,7 +6,13 @@
        contains all the infomation about the
        burger place like prices they charge,terms and 
        means of delivery and a lot more.
-       
+##    Table of content
+       +[description](#description)
+       +[Installation Requirements]
+       +[Technology used](#technology used)
+      +[Reference](#reference)
+      +[licence](#licence)
+       +[Authors info]
 ##     Installation requirements
        any computing device like smartphones,tablets,desktops and
        laptops.
