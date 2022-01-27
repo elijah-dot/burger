@@ -1,18 +1,11 @@
- .container .description  h1{font-weight: bolder;
-                              font-size: 35px;                  }
- .image .B{float: right;
-           max-width: 40%; 
-       height: auto;
-margin-top: 0%;  
-padding: 0%; 
-background-color:orange;
-vertical-align: top ;         }
-.cars .top-feature .nav_bar{margin: 0%;
-                              padding: 0%;}
-                              
- .container .description p{font-size: 22px;}                         
-button:hover{
-              background-color: orangered;}
-.one{display: flex;
-         }
-          
+
+
+
+.cars{display: flex;
+       margin-left: opx;
+       }
+ .top-feature .logo{float:left;
+                     clear: both; }      
+ .top-feature .centreone h2 > span{color: goldenrod;} 
+.cars .nav_bar table{ text-indent: 80px;
+                       text-align: right;}
