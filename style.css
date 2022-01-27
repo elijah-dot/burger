@@ -9,6 +9,5 @@
                      clear: both; }      
  .top-feature .centreone h2 > span{color: goldenrod;} 
 .cars .nav_bar table{ text-indent: 80px;
-                      justify-content:left; }
-.container{display: flex;}
-.container .description 
+                          }
+
