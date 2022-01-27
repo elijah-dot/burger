@@ -1,6 +1,4 @@
 
-
-
 .cars{display: flex;
        margin-left: opx;
        padding-right: 30px;
@@ -9,5 +7,10 @@
                      clear: both; }      
  .top-feature .centreone h2 > span{color: goldenrod;} 
 .cars .nav_bar table{ text-indent: 80px;
-                          }
-
+} 
+.one{display:flex;}
+.container .description .B{height: 600px;
+                            float: right; 
+                             clear: both; 
+                              background-color: orange;         }
+ .container .description .specialone{margin-top: 70px;}                          
