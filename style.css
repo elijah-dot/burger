@@ -3,9 +3,12 @@
 
 .cars{display: flex;
        margin-left: opx;
+       padding-right: 30px;
        }
  .top-feature .logo{float:left;
                      clear: both; }      
  .top-feature .centreone h2 > span{color: goldenrod;} 
 .cars .nav_bar table{ text-indent: 80px;
-                       text-align: right;}
+                      justify-content:left; }
+.container{display: flex;}
+.container .description 
